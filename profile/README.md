@@ -1,10 +1,5 @@
 ## Welcome to Openlane! 👋
 
-Here at Openlane, we care about the leaders inside technology businesses who show up every day to maintain the infrastructure, platforms, and processes that keep the world in motion. These incredible humans solve problems every day with tools that just aren't optimized for the tasks they need to perform, leading to toil and distraction from *the fun part of the job*! 
+Having been leaders in Engineering and Operations throughout our careers, we've seen countless times the tools, processes, and automation which are underinvested in. Our battle-tested experience building security and compliance teams and programs across multiple fortune 500 companies has taught us that focusing on compliance only at certain times of the year leaves you rushing through tests, scrambling to gather evidence, and hoping you don't get any findings. We know there is a better way.
 
-We're just getting started here, but stay tuned!
-
-The first problem set we're taking on is: Security and Compliance!
-Security and Compliance can be a confusing, scary place, but when you shift into Openlane you'll be cruising your way towards those certifications in no time.
-
-Want to contribute? Please reach out or open an issue on one of our repos!
+When we looked at the tooling available in the market one thing stood out to us: almost none of the companies focused on automated compliance / continuous GRC / centralized trust management platforms open-sourced their tooling, templates, or automation. We believe in democratizing security and compliance, and envision a future where we can unite individuals and enterprises and transcend the limitations of solitary innovation with a cooperative approach to tackling cyber threats and risk.
