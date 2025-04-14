@@ -13,12 +13,12 @@ We will _strive_ to respond to submissions within 48 hours but given this projec
 
 ## Public Disclosure Process
 
-The Security Team publishes a public advisory to The Open Lane community via GitHub. In most cases, additional communication via Slack, blog and other channels will assist in educating Open Lane users and rolling out the patched release to affected users.
+The Security Team publishes a public advisory to the Openlane community via GitHub. In most cases, additional communication via Slack, blog and other channels will assist in educating Open Lane users and rolling out the patched release to affected users.
 
-The Security Team will also publish any mitigating steps users can take until the fix can be applied to their Open Lane instances. The Open Lane distributors will handle creating and publishing their own security advisories.
+The Security Team will also publish any mitigating steps users can take until the fix can be applied to their Open Lane instances. Openlane distributors will handle creating and publishing their own security advisories.
 
 ## Confidentiality, Integrity and Availability
 
-We consider vulnerabilities leading to the compromise of data confidentiality, elevation of privilege, or integrity to be our highest priority concerns. Availability, in particular in areas relating to DoS and resource exhaustion, is also a serious security concern. The Open Lane Security Team takes all vulnerabilities, potential vulnerabilities, and suspected vulnerabilities seriously and will investigate them in an urgent and expeditious manner.
+We consider vulnerabilities leading to the compromise of data confidentiality, elevation of privilege, or integrity to be our highest priority concerns. Availability, in particular in areas relating to DoS and resource exhaustion, is also a serious security concern. Openlane Security Team takes all vulnerabilities, potential vulnerabilities, and suspected vulnerabilities seriously and will investigate them in an urgent and expeditious manner.
 
 Note that we do not currently consider the default settings for Open Lane to be secure-by-default. It is necessary for operators to explicitly configure settings, role based access control, and other resource related features in Open Lane to provide a hardened Open Lane environment. We will not act on any security disclosure that relates to a lack of safe defaults. Over time, we will work towards improved safe-by-default configuration, taking into account backwards compatibility.
