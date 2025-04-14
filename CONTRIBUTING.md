@@ -26,7 +26,7 @@ ok to file an incomplete issue template.
 ## Making a PR
 
 **If you are considering filing a pull request, make sure that there's an issue filed for the work
-you'd like to do** 
+you'd like to do**
 
 There might be some discussion required! Filing an issue first will help ensure
 that the work you put into your pull request will get merged.
@@ -46,4 +46,4 @@ in this organization.
 
 ## Contact
 
-If you have any questions, please reach out to [@matoszz](https://github.com/matoszz) 
+If you have any questions, please reach out to [@matoszz](https://github.com/matoszz)
