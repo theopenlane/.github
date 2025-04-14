@@ -38,7 +38,7 @@ questions! The maintainers are there to help you!
 
 ## Conduct
 
-the Openlane follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
+Openlane follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
 of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
 in this organization.
 
