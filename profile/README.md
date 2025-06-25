@@ -1,4 +1,4 @@
-##  👋 Welcome to Openlane! 
+##  👋 Welcome to Openlane!
 
 **Openlane brings clarity, control, and automation to modern compliance**
 
@@ -8,17 +8,17 @@ Our passion is helping rapid-growth companies get compliant faster -- with fewer
 
 Backed by extensible APIs and open tooling, Openlane transforms compliance from a static, annual checkbox into a continuous, collaborative process. Whether you're just starting your compliance journey or are ready for a more mature compliance posture, Openlane provides:
 
-- 📜 Program builder for SOC 2, ISO 27001, and custom frameworks  
-- 📂 Built-in support for control mapping and multi-framework alignment  
+- 📜 Program builder for SOC 2, ISO 27001, and custom frameworks
+- 📂 Built-in support for control mapping and multi-framework alignment
 - 🧠 Risk register with scoring, tracking, and easy relationship building with controls, users, or systems
 - 🔄 Policy and evidence lifecycle management with task and approval flows
-- 🌐 Hosted Trust Centers with custom branding and 1-click NDAs coming soon!
-- ⚙️ Programmatic interfaces for everything — see our [API docs](https://docs.theopenlane.io/docs/api)  
+- 🌐 Hosted Trust Centers with custom branding and 1-click ANDAs coming soon!
+- ⚙️ Programmatic interfaces for everything — see our [API docs](https://docs.theopenlane.io/docs/api)
 
 Hard at work to become a trusted foundation for high-growth startups and security-conscious teams that want to build trust early -without slowing down or locking into expensive platforms, we can use your support:
- 
-⭐ [Star the repo](https://github.com/theopenlane/core)  
-🧪 [Join the beta](https://console.theopenlane.io/waitlist)  
+
+> ⭐ [Star the repo](https://github.com/theopenlane/core)  |
+🧪 [Join the beta](https://console.theopenlane.io/waitlist)  |
 📚 [Explore the docs](https://docs.theopenlane.io)
-👉 [Follow us on LinkedIn](https://www.linkedin.com/company/theopenlane)
+👉 [Follow us on LinkedIn](https://www.linkedin.com/company/theopenlane)    |
 💬 [Check out our Discord](https://discord.gg/4fq2sxDk7D)
