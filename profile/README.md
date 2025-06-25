@@ -1,5 +1,24 @@
-## Welcome to Openlane! 👋
+##  👋 Welcome to Openlane! 
 
-Having been leaders in Engineering and Operations throughout our careers, we've seen countless times the tools, processes, and automation which are underinvested in. Our battle-tested experience building security and compliance teams and programs across multiple fortune 500 companies has taught us that focusing on compliance only at certain times of the year leaves you rushing through tests, scrambling to gather evidence, and hoping you don't get any findings. We know there is a better way.
+**Openlane brings clarity, control, and automation to modern compliance**
 
-When we looked at the tooling available in the market one thing stood out to us: almost none of the companies focused on automated compliance / continuous GRC / centralized trust management platforms open-sourced their tooling, templates, or automation. We believe in democratizing security and compliance, and envision a future where we can unite individuals and enterprises and transcend the limitations of solitary innovation with a cooperative approach to tackling cyber threats and risk.
+We're developing a developer-first compliance automation platform to help growing companies get compliant, manage risks, and meet evolving regulatory or legal requirements.
+
+Our passion is helping rapid-growth companies get compliant faster -- with fewer spreadsheets and less guesswork. We know how painful it is to juggle customer security reviews, infrastructure complexity, and the grind of manual evidence gathering. That's why we built [Openlane](https://www.theopenlane.io): a lightweight, open-source alternative to bloated enterprise tools.
+
+Backed by extensible APIs and open tooling, Openlane transforms compliance from a static, annual checkbox into a continuous, collaborative process. Whether you're just starting your compliance journey or are ready for a more mature compliance posture, Openlane provides:
+
+- 📜 Program builder for SOC 2, ISO 27001, and custom frameworks  
+- 📂 Built-in support for control mapping and multi-framework alignment  
+- 🧠 Risk register with scoring, tracking, and easy relationship building with controls, users, or systems
+- 🔄 Policy and evidence lifecycle management with task and approval flows
+- 🌐 Hosted Trust Centers with custom branding and 1-click NDAs coming soon!
+- ⚙️ Programmatic interfaces for everything — see our [API docs](https://docs.theopenlane.io/docs/api)  
+
+Hard at work to become a trusted foundation for high-growth startups and security-conscious teams that want to build trust early -without slowing down or locking into expensive platforms, we can use your support:
+ 
+⭐ [Star the repo](https://github.com/theopenlane/core)  
+🧪 [Join the beta](https://console.theopenlane.io/waitlist)  
+📚 [Explore the docs](https://docs.theopenlane.io)
+👉 [Follow us on LinkedIn](https://www.linkedin.com/company/theopenlane)
+💬 [Check out our Discord](https://discord.gg/4fq2sxDk7D)
