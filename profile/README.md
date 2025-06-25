@@ -18,9 +18,11 @@ Backed by extensible APIs and open tooling, Openlane transforms compliance from 
 Hard at work to become a trusted foundation for high-growth startups and security-conscious teams that want to build trust early -without slowing down or locking into expensive platforms, we can use your support:
 
 <div align="center">
+  
 ⭐ [Star the repo](https://github.com/theopenlane/core)  |
 🧪 [Join the beta](https://console.theopenlane.io/waitlist)  |
 📚 [Explore the docs](https://docs.theopenlane.io)
 👉 [Follow us on LinkedIn](https://www.linkedin.com/company/theopenlane)    |
 💬 [Check out our Discord](https://discord.gg/4fq2sxDk7D)
+
 </div>
