@@ -26,3 +26,4 @@ Hard at work to become a trusted foundation for high-growth startups and securit
 💬 [Check out our Discord](https://discord.gg/4fq2sxDk7D)
 
 </div>
+<a href="https://www.producthunt.com/products/openlane?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-openlane" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=957842&theme=dark&t=1763617498471" alt="Openlane - Because&#0032;compliance&#0032;isn’t&#0032;just&#0032;a&#0032;checkbox | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
