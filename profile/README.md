@@ -27,3 +27,4 @@ Hard at work to become a trusted foundation for high-growth startups and securit
 
 </div>
 <a href="https://www.producthunt.com/products/openlane?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-openlane" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=957842&theme=dark&t=1763617498471" alt="Openlane - Because&#0032;compliance&#0032;isn’t&#0032;just&#0032;a&#0032;checkbox | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://openalternative.co/openlane?utm_source=openalternative&utm_medium=badge&utm_campaign=embed&utm_content=tool-openlane" target="_blank"><img src="https://openalternative.co/openlane/badge.svg?theme=dark&width=200&height=50" width="200" height="50" alt="Openlane badge" loading="lazy" /></a>
