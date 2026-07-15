@@ -12,7 +12,7 @@ Backed by extensible APIs and open tooling, Openlane transforms compliance from 
 - 📂 Built-in support for control mapping and multi-framework alignment
 - 🧠 Risk register with scoring, tracking, and easy relationship building with controls, users, or systems
 - 🔄 Policy and evidence lifecycle management with task and approval flows
-- 🌐 Hosted Trust Centers with custom branding and 1-click NDA coming soon!
+- 🌐 Hosted Trust Centers with custom branding, click-through NDA, and control reporting
 - ⚙️ Programmatic interfaces for everything — see our [API docs](https://docs.theopenlane.io/docs/api)
 
 Hard at work to become a trusted foundation for high-growth startups and security-conscious teams that want to build trust early - without slowing down or locking into expensive platforms, we can use your support:
