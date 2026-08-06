@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Report security issues by emailing the maintainers at security@theopenlane.io - do NOT log public issues for security vulnerabilities.
+Report security issues by emailing the maintainers at `security@theopenlane.io` - do NOT log public issues for security vulnerabilities.
 
 To ensure the timely response to your report, please ensure that the entirety of the report is contained within the email body and not solely behind a web link or an attachment.
 

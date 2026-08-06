@@ -1,10 +1,10 @@
 # Contributing
 
-Welcome to Openlane! We're super excited to have you here. This document contains the best practices for contributing to our repositories. Please note that as of the time of writing (04/14/2025) most of the repositories /code in the organization is a work in progress and not safe to run unless you understand the experimental nature of it. Please reach out with any questions by joining our public [discord](https://discord.gg/4fq2sxDk7D), emailing [support@theopenlane.io](mailto:support@theopenlane.io), or reach out to [@matoszz](https://github.com/matoszz).
+Welcome to Openlane! We're super excited to have you here. This document contains the best practices for contributing to our repositories. Please reach out with any questions by joining our public [discord](https://discord.gg/4fq2sxDk7D), emailing [support@theopenlane.io](mailto:support@theopenlane.io), or reach out to [@matoszz](https://github.com/matoszz).
 
 ## Filing an Issue
 
-If you are using one of our open source projects- you'll likely begin interacting with us by
+If you are using one of our open source projects - you'll likely begin interacting with us by
 filing an issue. Regardless of whether you think the issue is with the project itself, if you're
 having trouble using the project, feel free to file an issue on the repo.
 
@@ -37,11 +37,9 @@ questions! The maintainers are there to help you!
 
 ## Conduct
 
-Openlane follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
+Openlane follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). You can find a copy in each
 of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
 in this organization.
-
-[Contributor Covenant Code of Conduct]: CODE_OF_CONDUCT.md
 
 ## Contact
 
