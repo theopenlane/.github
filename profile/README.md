@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](banner.png)](https://www.theopenlane.io)
+[![](banner.jpg)](https://www.theopenlane.io)
 
 </div>
 
