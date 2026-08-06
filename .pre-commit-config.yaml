@@ -8,6 +8,6 @@ repos:
     hooks:
       - id: trailing-whitespace
   - repo: https://github.com/adhtruong/mirrors-typos
-    rev: v1.47.2
+    rev: v1.49.0
     hooks:
       - id: typos
