@@ -13,3 +13,4 @@ See the difference yourself - [sign up](https://console.theopenlane.io/signup) f
 [Docs](https://docs.theopenlane.io) · [Discord](https://discord.gg/4fq2sxDk7D) · [LinkedIn](https://www.linkedin.com/company/theopenlane) · [Quickstart](https://docs.theopenlane.io/docs/platform/quickstartguide)
 
 <a href="https://openalternative.co/openlane?utm_source=openalternative&utm_medium=badge&utm_campaign=embed&utm_content=tool-openlane" target="_blank"><img src="https://openalternative.co/openlane/badge.svg?theme=dark&width=200&height=50" width="200" height="50" alt="Openlane on OpenAlternative" loading="lazy" /></a>
+<a href="https://namespace.so/github-actions/?utm_source=oss&utm_campaign=openlane" target="_blank"><img alt="CI powered by Namespace" src="https://namespace.so/oss/badge.svg" height="32" /></a>
